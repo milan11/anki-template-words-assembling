@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "html.format.wrapLineLength": 200,
+  "editor.wordWrapColumn": 200,
+  "prettier.printWidth": 200,
+}
